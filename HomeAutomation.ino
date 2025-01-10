@@ -1,4 +1,3 @@
-CODE
 #define BLYNK_TEMPLATE_ID "TMPLiVvDyPBv"
 #define BLYNK_DEVICE_NAME "ARiot finall"
 #define BLYNK_AUTH_TOKEN "4RJ9RMeEwE1ksipaQ-04LnCOXzaa9xpK"
